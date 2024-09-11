@@ -136,6 +136,7 @@ elif menu == "About Us":
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1L-zuQOo_JngRbbQx-lot1AGgDgOFJrgH",
+            "https://drive.google.com/uc?export=view&id=1L-zuQOo_JngRbbQx-lot1AGgDgOFJrgH",
         ]
         data_list = [
             {
@@ -145,6 +146,13 @@ elif menu == "About Us":
                 "fun_fact": "Fakta Senang",
                 "motto_hidup": "I have no enemies.",
             },
+            {
+                "nama": "Kemas Verianda Ramahdan",
+                "sebagai": "Pak Presiden",
+                "nim": "122450016",
+                "fun_fact": "Pacar cibel",
+                "motto_hidup": "Sering ngegym",
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
 

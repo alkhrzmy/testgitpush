@@ -1,0 +1,77 @@
+[33mcommit 9088d24d0ddd4260f54a3c5bc27e5c766aa052a9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mjim[m[33m)[m
+Author: alkhrzmy <alkrzmy@yahoo.com>
+Date:   Wed Sep 11 19:14:07 2024 +0700
+
+    commit about us 1
+
+[33mcommit 6bd4403d2ccac1a74c05560b00d432dcfe55e297[m
+Merge: 1fbf381 1bd5e15
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Mon Sep 9 19:21:25 2024 +0700
+
+    Merge pull request #4 from LaboNapitupulu/labo3
+    
+    lagi labo lagi
+
+[33mcommit 1bd5e155dbd69e3bb0cb24258cfd3586a1dddefd[m
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Mon Sep 9 19:20:45 2024 +0700
+
+    lagi labo lagi
+
+[33mcommit 1fbf381878e00c8a528fc6657d765de511aab9ff[m
+Merge: c84ba8a cd6660f
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Mon Sep 9 19:13:00 2024 +0700
+
+    Merge pull request #3 from LaboNapitupulu/LaboNapitupulu-patch-1
+    
+    Update main.py
+
+[33mcommit cd6660f7c18f7875ee9909fb39efa4b4d940e04b[m
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Mon Sep 9 19:12:47 2024 +0700
+
+    Update main.py
+
+[33mcommit c84ba8a5ffe7bc656ee3d6f86b8425b98d14ddc9[m
+Merge: 26eae6b daca37e
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Mon Sep 9 19:11:14 2024 +0700
+
+    Merge pull request #2 from LaboNapitupulu/labo2
+    
+    labo lagi
+
+[33mcommit daca37e856b3b98b3730fc26419d3b9cc444a692[m
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Mon Sep 9 19:10:25 2024 +0700
+
+    labo lagi
+
+[33mcommit 26eae6bdbb711d039c97ce7f3d091448e53d9364[m
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Wed Sep 4 19:41:08 2024 +0700
+
+    Update main.py
+
+[33mcommit 91f63e2100ea7f2e878b9e775caab8a3cb6d60c5[m
+Merge: 1dc29bd e9a480a
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Wed Sep 4 19:39:26 2024 +0700
+
+    Merge pull request #1 from LaboNapitupulu/labo1
+    
+    commit
+
+[33mcommit e9a480aca05769a8760b6db795e39a9995915862[m
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Wed Sep 4 19:38:45 2024 +0700
+
+    commit
+
+[33mcommit 1dc29bdee9471eff0cef2e94bd962c2160d1247c[m
+Author: LaboNapitupulu <labo.123450037@student.itera.ac.id>
+Date:   Wed Sep 4 17:53:31 2024 +0700
+
+    start commit
