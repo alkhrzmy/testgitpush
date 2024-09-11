@@ -152,7 +152,15 @@ elif menu == "About Us":
                 "nim": "122450016",
                 "fun_fact": "Pacar cibel",
                 "motto_hidup": "Sering ngegym",
-            }
+            },
+            {
+                "nama": "Nurul Alfajar Gumel",
+                "sebagai": "Aji",
+                "nim": "1224500120",
+                "fun_fact": "Suka Ngaji",
+                "motto_hidup": "Ngaji Ngaji Ngaji",
+            },
+
         ]
         display_images_with_data(gambar_urls, data_list)
 
