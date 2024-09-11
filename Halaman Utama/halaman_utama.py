@@ -160,6 +160,13 @@ elif menu == "About Us":
                 "fun_fact": "Suka Ngaji",
                 "motto_hidup": "Ngaji Ngaji Ngaji",
             },
+            {
+                "nama": "Irvan Alfaritzi",
+                "sebagai": "irpan",
+                "nim": "122450090",
+                "fun_fact": "Orang padang",
+                "motto_hidup": "onde mande",
+            },
 
         ]
         display_images_with_data(gambar_urls, data_list)
